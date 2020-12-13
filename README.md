@@ -13,7 +13,7 @@ This is a barber shop website made during the course about HTML 5 and CSS 3 from
 - Contact page with form and opening hours
 
 ## 💻 Deploy
-- [Deploy](https://thamiavicente.github.io/petshop-tree-house/index.html)
-- [Code](https://thamiavicente.github.io/petshop-tree-house/index.html)
+- [Deploy](https://jessicasilvano.github.io/Barbearia-Alura/)
+- [Code](https://github.com/jessicasilvano/Barbearia-Alura/blob/master/index.html)
 
 Copyright©️ 2020 - Jéssica Silvano
