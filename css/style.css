@@ -257,7 +257,11 @@ td, th {
 @media screen and (max-width: 480px) {
 	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
 		width: auto;
-	}
+    }
+    
+    .principal, .beneficios {
+        padding: 3em 1.5em;
+    }
 
 	h1 {
 		text-align: center;
@@ -269,5 +273,53 @@ td, th {
 
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
-	}
+    }
+    
+    .imagem-beneficios {
+        margin-top: 1em;
+    }
+
+    /* página produtos */
+    .produtos {
+        width: 100%;
+    }
+
+
+    .produtos li{
+        width: 90%;
+        display: block;
+        margin: 1em auto 0 auto;
+    }
+
+    /* página Contato */
+    .input-padrao {
+        width: 80%;
+        margin: 0 auto 0.8em auto;
+    }
+
+    form label {
+        width: 80%;
+        margin-left: 0.5em;
+    }
+
+    .mensagem {
+        width: 90%;
+        margin: 0 1em 0 1em;
+
+    }
+
+    fieldset, .checkbox {
+        margin: 1em;
+    }
+
+    .enviar {
+        width: 90%;
+        padding: 30px 0;
+        margin: 0 1em;
+    }
+
+    table {
+        width: 80%;
+        margin: 0 auto 1.5em;
+    }
 }
