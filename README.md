@@ -16,4 +16,11 @@ This is a barber shop website made during the course about HTML 5 and CSS 3 from
 - [Deploy](https://jessicasilvano.github.io/Barbearia-Alura/)
 - [Code](https://github.com/jessicasilvano/Barbearia-Alura/blob/master/index.html)
 
+## 🖼️ Result
+
+![](./screeshots/Opera%20Instant%C3%A2neo_2021-01-14_160145_jessicasilvano.github.io.png)
+![](./screeshots/Opera%20Instant%C3%A2neo_2021-01-14_160201_jessicasilvano.github.io.png)
+![](./screeshots/Opera%20Instant%C3%A2neo_2021-01-14_160213_jessicasilvano.github.io.png)
+![](./screeshots/Opera%20Instant%C3%A2neo_2021-01-14_160223_jessicasilvano.github.io.png)
+
 Copyright©️ 2020 - Jéssica Silvano
